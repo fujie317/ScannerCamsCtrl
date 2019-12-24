@@ -30,3 +30,6 @@ It's quite straight forward. Start the program while the cameras (take out the m
  7. You man initiate scanning by either hit the "Scan Now" button with your mouse or hit the space bar on your keyboard once the
   button gets focus. Keyboard focus is set on this button when the program first starts. You may repeatedly hitting the tab key 
   to move the focus or by hitting the "Scan Now" button (will effect one scan, though). Focus will remain until changed manually.
+  8. You can right click at any point in the two preview areas to bring a magnifying glass window. You may use mouse wheel to 
+  change the zoom level. If you want to move the glass, just right click at the new location. Dragging it does not work well 
+  as the previews are constantly changing images (a.k.a video!). 
