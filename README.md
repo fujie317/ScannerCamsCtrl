@@ -22,7 +22,8 @@ It's quite straight forward. Start the program while the cameras (take out the m
  3. Use the Action menu's "Switch Cameras" command to swap the sources of the previews. 
  4. Starting page numbers can be reset by entering them in the page number showing boxes directly. Remember to hit "Enter" 
  key after entering new page numbers. If you change the smaller number, the bigger number will be changed simultaneously.
- 5. Page number format can be changed thru Format menu. Arabic is the default. Roman upper and lower are the other two options.
+ 5. Page number format can be changed thru Format menu. Arabic is the default. Roman upper and lower are the other two options. Format will change from the larger on screen. If you want the other number to change, too, Select the Action menu 
+ and choose the "Sync" item.
  6. Format of output image file name can be changed dynamically thru commands under the "Format" menu. File names are made up 
  of four parts. An optional prefix can be changed dynamically. Default is empty string. "Fixed" length character padded serial 
  number. Both the length and padding character can be changed dynamically. Default is 8 and the '0' character. A dot separator 
